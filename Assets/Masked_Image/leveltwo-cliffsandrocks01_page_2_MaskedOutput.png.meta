@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 0fc7e5dc971a86948b0d33a7f0266b52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4764889737981494641
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_0
+  - first:
+      213: 4427582579271358820
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_1
+  - first:
+      213: 7146038799274118922
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_2
+  - first:
+      213: 529541291115065235
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_3
+  - first:
+      213: -5962678267994105909
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_4
+  - first:
+      213: -8556601550024899076
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_5
+  - first:
+      213: 7678686134469464227
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_6
+  - first:
+      213: -1125736666785702595
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_7
+  - first:
+      213: 5522301430571623321
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_8
+  - first:
+      213: -5047212046154888646
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_9
+  - first:
+      213: -7915830791874089119
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_10
+  - first:
+      213: -5705364735158919878
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_11
+  - first:
+      213: 5533475104502843441
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_12
+  - first:
+      213: 5031265555182435344
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_13
+  - first:
+      213: 7300629064500923119
+    second: leveltwo-cliffsandrocks01_page_2_MaskedOutput_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 673
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1758a42a8f9402240800000000000000
+      internalID: 4764889737981494641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_1
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 999
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4695d23c5eee17d30800000000000000
+      internalID: 4427582579271358820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 999
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f84e53d64db2360800000000000000
+      internalID: 7146038799274118922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 999
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fa0d6affe495700800000000000000
+      internalID: 529541291115065235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 999
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc71546f4bf404da0800000000000000
+      internalID: -5962678267994105909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_5
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 999
+        width: 83
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5853e9938d04980800000000000000
+      internalID: -8556601550024899076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_6
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 968
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a015ca1b5c209a60800000000000000
+      internalID: 7678686134469464227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 663
+        width: 130
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d1b9947749060f0800000000000000
+      internalID: -1125736666785702595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_8
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 471
+        width: 298
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9936ad784e723ac40800000000000000
+      internalID: 5522301430571623321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_9
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 446
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a8dd2a263b4f9b0800000000000000
+      internalID: -5047212046154888646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_10
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 392
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fee3ca5d1552290800000000000000
+      internalID: -7915830791874089119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_11
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 459
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ddfce600972d0b0800000000000000
+      internalID: -5705364735158919878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 439
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1380c593a4adacc40800000000000000
+      internalID: 5533475104502843441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_13
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 380
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cbe4b9d55a2d540800000000000000
+      internalID: 5031265555182435344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-cliffsandrocks01_page_2_MaskedOutput_14
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 375
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea487a247b015560800000000000000
+      internalID: 7300629064500923119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_0: 4764889737981494641
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_1: 4427582579271358820
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_10: -7915830791874089119
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_11: -5705364735158919878
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_12: 5533475104502843441
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_13: 5031265555182435344
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_14: 7300629064500923119
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_2: 7146038799274118922
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_3: 529541291115065235
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_4: -5962678267994105909
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_5: -8556601550024899076
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_6: 7678686134469464227
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_7: -1125736666785702595
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_8: 5522301430571623321
+      leveltwo-cliffsandrocks01_page_2_MaskedOutput_9: -5047212046154888646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

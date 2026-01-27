@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7ad426c22592e94097c20a2e00ab98c, type: 3}
+  m_Name: S1L2_SceneData_SO
+  m_EditorClassIdentifier: Assembly-CSharp::SceneData_SO
+  sceneName: Stage 1 Level 2
+  backgroundMusic: {fileID: 8300000, guid: c8cea1e2c16f6ec4390bc5c40846e8ef, type: 3}
+  backgroundMusic_Reverse: {fileID: 8300000, guid: 3f71297b8cca23d4d94a82cdbbfbcb1a, type: 3}
+  gates:
+  - targetScene: {fileID: 11400000, guid: 8b88f9841175ab6428b1130713ae4b24, type: 2}
+    targetGateIndex: 1
+    location: {x: -5.3442383, y: -2.7992492, z: 0}
+    direction: 1
+  - targetScene: {fileID: 11400000, guid: 188d07fd4072d474db03ad647829b3c1, type: 2}
+    targetGateIndex: 0
+    location: {x: 4.943903, y: -2.3014305, z: 0}
+    direction: -1

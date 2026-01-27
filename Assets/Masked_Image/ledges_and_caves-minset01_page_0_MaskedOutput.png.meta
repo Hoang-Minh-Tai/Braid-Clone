@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: fe4596eaadb87fa4fa671be48206a4c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3136891247493115907
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_0
+  - first:
+      213: 4870109692714241931
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_1
+  - first:
+      213: 9221213552091459791
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_2
+  - first:
+      213: 5576828717144940929
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_3
+  - first:
+      213: -123755318310344604
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_4
+  - first:
+      213: -3505162486330621267
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_5
+  - first:
+      213: -931536907889569744
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_6
+  - first:
+      213: 742347986240978458
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_7
+  - first:
+      213: -4856739965125309738
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_8
+  - first:
+      213: -7124019408963588284
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_9
+  - first:
+      213: 4976562877716006027
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_10
+  - first:
+      213: 2282133687129861210
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_11
+  - first:
+      213: 3701821128319228240
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_12
+  - first:
+      213: -2124602899067177863
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_13
+  - first:
+      213: -5546020663420063605
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_14
+  - first:
+      213: 7650288037142212849
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_15
+  - first:
+      213: 5741950844120199030
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_16
+  - first:
+      213: 3261667015681876982
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_17
+  - first:
+      213: -1925650144991784352
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_18
+  - first:
+      213: -5146195889261565956
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_19
+  - first:
+      213: -3436658700593652367
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_20
+  - first:
+      213: 4371663450046986442
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_21
+  - first:
+      213: 7064549426682569920
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_22
+  - first:
+      213: 4684304121247396890
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_23
+  - first:
+      213: -8893705521658770572
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_24
+  - first:
+      213: 1209367973425389295
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_25
+  - first:
+      213: -8296066983642348941
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_26
+  - first:
+      213: -3468789443609057290
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_27
+  - first:
+      213: 5656904000653545664
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_28
+  - first:
+      213: 8247769768943190018
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_29
+  - first:
+      213: -9209865606726241292
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_30
+  - first:
+      213: 1613565981922435072
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_31
+  - first:
+      213: -1605550774088375224
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_32
+  - first:
+      213: 5599896208447088809
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_33
+  - first:
+      213: 5599368906253717486
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_34
+  - first:
+      213: 6113294254809255692
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_35
+  - first:
+      213: 4948872388420434530
+    second: ledges_and_caves-minset01_page_0_MaskedOutput_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 565
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300fbd938f9788b20800000000000000
+      internalID: 3136891247493115907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 903
+        width: 386
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4b6b66fa169340800000000000000
+      internalID: 4870109692714241931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 847
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0fd6a9ed458ff70800000000000000
+      internalID: 9221213552091459791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 851
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1812f92cb20e46d40800000000000000
+      internalID: 5576828717144940929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 859
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468eb059135584ef0800000000000000
+      internalID: -123755318310344604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 843
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da20d323a492b5fc0800000000000000
+      internalID: -3505162486330621267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 715
+        width: 314
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03093162e148213f0800000000000000
+      internalID: -931536907889569744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_7
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 811
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ebe937f895d4a00800000000000000
+      internalID: 742347986240978458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_8
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 815
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da434cdbb4699cb0800000000000000
+      internalID: -4856739965125309738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 819
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44facbb9716622d90800000000000000
+      internalID: -7124019408963588284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 771
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8488a0029d401540800000000000000
+      internalID: 4976562877716006027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_11
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 775
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ce3574f74cbaf10800000000000000
+      internalID: 2282133687129861210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_12
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 783
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059d08ff3b28f5330800000000000000
+      internalID: 3701821128319228240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 764
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f5508be4e382e0800000000000000
+      internalID: -2124602899067177863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_14
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 755
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80fed737939803b0800000000000000
+      internalID: -5546020663420063605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 291
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f03843df684b2a60800000000000000
+      internalID: 7650288037142212849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 739
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fe98dded18faf40800000000000000
+      internalID: 5741950844120199030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 708
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a355aed4c34d20800000000000000
+      internalID: 3261667015681876982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_18
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 711
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d51a4567b645e0800000000000000
+      internalID: -1925650144991784352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 463
+        width: 262
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf72dfbba1a0598b0800000000000000
+      internalID: -5146195889261565956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_20
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 471
+        width: 249
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d1cd8be198e40d0800000000000000
+      internalID: -3436658700593652367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_21
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 699
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8fb99eeb44bac30800000000000000
+      internalID: 4371663450046986442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_22
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 699
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4aa9326425a0260800000000000000
+      internalID: 7064549426682569920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 699
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1479de97cdf10140800000000000000
+      internalID: 4684304121247396890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 703
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b499ce2f5339480800000000000000
+      internalID: -8893705521658770572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 699
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee11caa3c988c010800000000000000
+      internalID: 1209367973425389295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_26
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 631
+        width: 149
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c62768037edc80800000000000000
+      internalID: -8296066983642348941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7ae0521626cdfc0800000000000000
+      internalID: -3468789443609057290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_28
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 231
+        width: 251
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d07f873c518e40800000000000000
+      internalID: 5656904000653545664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 459
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200801308e6f57270800000000000000
+      internalID: 8247769768943190018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 407
+        width: 145
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3bef1d60cff2080800000000000000
+      internalID: -9209865606726241292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 435
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000242626b9846610800000000000000
+      internalID: 1613565981922435072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 245
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844eb99d310f7b9e0800000000000000
+      internalID: -1605550774088375224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 209
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8ab8b9ee3d6bd40800000000000000
+      internalID: 5599896208447088809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 207
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefce9f7a54f4bd40800000000000000
+      internalID: 5599368906253717486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 167
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f87513cb8c6d450800000000000000
+      internalID: 6113294254809255692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ledges_and_caves-minset01_page_0_MaskedOutput_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26af98e873deda440800000000000000
+      internalID: 4948872388420434530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ledges_and_caves-minset01_page_0_MaskedOutput_0: 3136891247493115907
+      ledges_and_caves-minset01_page_0_MaskedOutput_1: 4870109692714241931
+      ledges_and_caves-minset01_page_0_MaskedOutput_10: 4976562877716006027
+      ledges_and_caves-minset01_page_0_MaskedOutput_11: 2282133687129861210
+      ledges_and_caves-minset01_page_0_MaskedOutput_12: 3701821128319228240
+      ledges_and_caves-minset01_page_0_MaskedOutput_13: -2124602899067177863
+      ledges_and_caves-minset01_page_0_MaskedOutput_14: -5546020663420063605
+      ledges_and_caves-minset01_page_0_MaskedOutput_15: 7650288037142212849
+      ledges_and_caves-minset01_page_0_MaskedOutput_16: 5741950844120199030
+      ledges_and_caves-minset01_page_0_MaskedOutput_17: 3261667015681876982
+      ledges_and_caves-minset01_page_0_MaskedOutput_18: -1925650144991784352
+      ledges_and_caves-minset01_page_0_MaskedOutput_19: -5146195889261565956
+      ledges_and_caves-minset01_page_0_MaskedOutput_2: 9221213552091459791
+      ledges_and_caves-minset01_page_0_MaskedOutput_20: -3436658700593652367
+      ledges_and_caves-minset01_page_0_MaskedOutput_21: 4371663450046986442
+      ledges_and_caves-minset01_page_0_MaskedOutput_22: 7064549426682569920
+      ledges_and_caves-minset01_page_0_MaskedOutput_23: 4684304121247396890
+      ledges_and_caves-minset01_page_0_MaskedOutput_24: -8893705521658770572
+      ledges_and_caves-minset01_page_0_MaskedOutput_25: 1209367973425389295
+      ledges_and_caves-minset01_page_0_MaskedOutput_26: -8296066983642348941
+      ledges_and_caves-minset01_page_0_MaskedOutput_27: -3468789443609057290
+      ledges_and_caves-minset01_page_0_MaskedOutput_28: 5656904000653545664
+      ledges_and_caves-minset01_page_0_MaskedOutput_29: 8247769768943190018
+      ledges_and_caves-minset01_page_0_MaskedOutput_3: 5576828717144940929
+      ledges_and_caves-minset01_page_0_MaskedOutput_30: -9209865606726241292
+      ledges_and_caves-minset01_page_0_MaskedOutput_31: 1613565981922435072
+      ledges_and_caves-minset01_page_0_MaskedOutput_32: -1605550774088375224
+      ledges_and_caves-minset01_page_0_MaskedOutput_33: 5599896208447088809
+      ledges_and_caves-minset01_page_0_MaskedOutput_34: 5599368906253717486
+      ledges_and_caves-minset01_page_0_MaskedOutput_35: 6113294254809255692
+      ledges_and_caves-minset01_page_0_MaskedOutput_36: 4948872388420434530
+      ledges_and_caves-minset01_page_0_MaskedOutput_4: -123755318310344604
+      ledges_and_caves-minset01_page_0_MaskedOutput_5: -3505162486330621267
+      ledges_and_caves-minset01_page_0_MaskedOutput_6: -931536907889569744
+      ledges_and_caves-minset01_page_0_MaskedOutput_7: 742347986240978458
+      ledges_and_caves-minset01_page_0_MaskedOutput_8: -4856739965125309738
+      ledges_and_caves-minset01_page_0_MaskedOutput_9: -7124019408963588284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

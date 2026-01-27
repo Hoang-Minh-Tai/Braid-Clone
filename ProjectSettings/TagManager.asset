@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Ladder
+  - Net
+  - Door
+  - DeadZone
+  - Gate
+  - MovingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground Only
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Ladder Detection
+  - Enemy
+  - Gate
+  - Ladder Climb Area
+  - Platform
+  - Player
+  - Puzzle
+  - Net Climb Area
+  - Net Climb Detection
+  - Dead Zone
+  - Key
+  - Debug
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3065645491
+    locked: 0
+  - name: Main
+    uniqueID: 1974910667
+    locked: 0
+  - name: Foreground
+    uniqueID: 266251847
+    locked: 0
+  - name: UI
+    uniqueID: 3493109823
+    locked: 0
+  - name: Debug
+    uniqueID: 2651161437
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Background
+  - Main
+  - Foreground
+  - UI
+  - World

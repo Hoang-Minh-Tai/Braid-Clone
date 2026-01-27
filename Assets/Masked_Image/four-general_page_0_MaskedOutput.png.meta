@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 6fea7612b124bed4c8bf705b022c5196
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5398101921903827051
+    second: four-general_page_0_MaskedOutput_0
+  - first:
+      213: 6795794671593945442
+    second: four-general_page_0_MaskedOutput_1
+  - first:
+      213: 8643560355461045507
+    second: four-general_page_0_MaskedOutput_2
+  - first:
+      213: 7870135155669445986
+    second: four-general_page_0_MaskedOutput_3
+  - first:
+      213: -6553116052629528294
+    second: four-general_page_0_MaskedOutput_4
+  - first:
+      213: -9172906975132344558
+    second: four-general_page_0_MaskedOutput_5
+  - first:
+      213: -5437641088509330569
+    second: four-general_page_0_MaskedOutput_6
+  - first:
+      213: 2819289240527353163
+    second: four-general_page_0_MaskedOutput_7
+  - first:
+      213: 8413338508572943862
+    second: four-general_page_0_MaskedOutput_8
+  - first:
+      213: 2505910344112189208
+    second: four-general_page_0_MaskedOutput_9
+  - first:
+      213: 5565261309709725761
+    second: four-general_page_0_MaskedOutput_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1631
+        width: 929
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597a19307e61615b0800000000000000
+      internalID: -5398101921903827051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1623
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26979d68f338f4e50800000000000000
+      internalID: 6795794671593945442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1623
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d97e5095814f770800000000000000
+      internalID: 8643560355461045507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1615
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dadffe936583d60800000000000000
+      internalID: 7870135155669445986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1382
+        width: 319
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a116b178ba7ae05a0800000000000000
+      internalID: -6553116052629528294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1375
+        width: 843
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f988dc4b943b080800000000000000
+      internalID: -9172906975132344558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_6
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1584
+        width: 273
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b35576d3e9984b0800000000000000
+      internalID: -5437641088509330569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 2048
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45b6b480a0202720800000000000000
+      internalID: 2819289240527353163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2025
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5ea9a3cce22c470800000000000000
+      internalID: 8413338508572943862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 135
+        width: 722
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fa8cb5e28c6c220800000000000000
+      internalID: 2505910344112189208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_0_MaskedOutput_10
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1403977dca7cb3d40800000000000000
+      internalID: 5565261309709725761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      four-general_page_0_MaskedOutput_0: -5398101921903827051
+      four-general_page_0_MaskedOutput_1: 6795794671593945442
+      four-general_page_0_MaskedOutput_10: 5565261309709725761
+      four-general_page_0_MaskedOutput_2: 8643560355461045507
+      four-general_page_0_MaskedOutput_3: 7870135155669445986
+      four-general_page_0_MaskedOutput_4: -6553116052629528294
+      four-general_page_0_MaskedOutput_5: -9172906975132344558
+      four-general_page_0_MaskedOutput_6: -5437641088509330569
+      four-general_page_0_MaskedOutput_7: 2819289240527353163
+      four-general_page_0_MaskedOutput_8: 8413338508572943862
+      four-general_page_0_MaskedOutput_9: 2505910344112189208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

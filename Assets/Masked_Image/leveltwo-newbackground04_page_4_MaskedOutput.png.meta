@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 76334bd9b0196a64ba5203821a8d3121
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7281729302015907026
+    second: leveltwo-newbackground04_page_4_MaskedOutput_0
+  - first:
+      213: 2142823609856662970
+    second: leveltwo-newbackground04_page_4_MaskedOutput_1
+  - first:
+      213: 9200513667981495122
+    second: leveltwo-newbackground04_page_4_MaskedOutput_2
+  - first:
+      213: 8891103484508147744
+    second: leveltwo-newbackground04_page_4_MaskedOutput_3
+  - first:
+      213: 155934163653904398
+    second: leveltwo-newbackground04_page_4_MaskedOutput_4
+  - first:
+      213: 625757632954624625
+    second: leveltwo-newbackground04_page_4_MaskedOutput_5
+  - first:
+      213: 8709702142808002280
+    second: leveltwo-newbackground04_page_4_MaskedOutput_6
+  - first:
+      213: 2188396987881036152
+    second: leveltwo-newbackground04_page_4_MaskedOutput_7
+  - first:
+      213: 5250685372564942894
+    second: leveltwo-newbackground04_page_4_MaskedOutput_8
+  - first:
+      213: 8786642502920796212
+    second: leveltwo-newbackground04_page_4_MaskedOutput_9
+  - first:
+      213: -1579622325815805815
+    second: leveltwo-newbackground04_page_4_MaskedOutput_10
+  - first:
+      213: 6369288078198682530
+    second: leveltwo-newbackground04_page_4_MaskedOutput_11
+  - first:
+      213: 5009102307560246347
+    second: leveltwo-newbackground04_page_4_MaskedOutput_12
+  - first:
+      213: -3760544078933629827
+    second: leveltwo-newbackground04_page_4_MaskedOutput_13
+  - first:
+      213: -5956704520798770836
+    second: leveltwo-newbackground04_page_4_MaskedOutput_14
+  - first:
+      213: 381944076773852289
+    second: leveltwo-newbackground04_page_4_MaskedOutput_15
+  - first:
+      213: -2124518777114265054
+    second: leveltwo-newbackground04_page_4_MaskedOutput_16
+  - first:
+      213: 4076695948749627845
+    second: leveltwo-newbackground04_page_4_MaskedOutput_17
+  - first:
+      213: 2326077634631846906
+    second: leveltwo-newbackground04_page_4_MaskedOutput_18
+  - first:
+      213: -92755848794244112
+    second: leveltwo-newbackground04_page_4_MaskedOutput_19
+  - first:
+      213: 7574179585298303612
+    second: leveltwo-newbackground04_page_4_MaskedOutput_20
+  - first:
+      213: 5058219081477858557
+    second: leveltwo-newbackground04_page_4_MaskedOutput_21
+  - first:
+      213: 6216928172374484134
+    second: leveltwo-newbackground04_page_4_MaskedOutput_22
+  - first:
+      213: 8467288478253666923
+    second: leveltwo-newbackground04_page_4_MaskedOutput_23
+  - first:
+      213: 1724700313506704762
+    second: leveltwo-newbackground04_page_4_MaskedOutput_24
+  - first:
+      213: -1535580425657297581
+    second: leveltwo-newbackground04_page_4_MaskedOutput_25
+  - first:
+      213: 769508189585587639
+    second: leveltwo-newbackground04_page_4_MaskedOutput_26
+  - first:
+      213: 1077777331511510594
+    second: leveltwo-newbackground04_page_4_MaskedOutput_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_4_MaskedOutput_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 718
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2be9c2b7c912fa90800000000000000
+      internalID: -7281729302015907026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_4_MaskedOutput_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 591
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd93d158b6dcbd10800000000000000
+      internalID: 2142823609856662970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_4_MaskedOutput_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 714
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b92dd2c1446850800000000000000
+      internalID: 6369288078198682530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9355e164872698a4ea81a94076c41457
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leveltwo-newbackground04_page_4_MaskedOutput_0: -7281729302015907026
+      leveltwo-newbackground04_page_4_MaskedOutput_1: 2142823609856662970
+      leveltwo-newbackground04_page_4_MaskedOutput_10: -1579622325815805815
+      leveltwo-newbackground04_page_4_MaskedOutput_11: 6369288078198682530
+      leveltwo-newbackground04_page_4_MaskedOutput_12: 5009102307560246347
+      leveltwo-newbackground04_page_4_MaskedOutput_13: -3760544078933629827
+      leveltwo-newbackground04_page_4_MaskedOutput_14: -5956704520798770836
+      leveltwo-newbackground04_page_4_MaskedOutput_15: 381944076773852289
+      leveltwo-newbackground04_page_4_MaskedOutput_16: -2124518777114265054
+      leveltwo-newbackground04_page_4_MaskedOutput_17: 4076695948749627845
+      leveltwo-newbackground04_page_4_MaskedOutput_18: 2326077634631846906
+      leveltwo-newbackground04_page_4_MaskedOutput_19: -92755848794244112
+      leveltwo-newbackground04_page_4_MaskedOutput_2: 9200513667981495122
+      leveltwo-newbackground04_page_4_MaskedOutput_20: 7574179585298303612
+      leveltwo-newbackground04_page_4_MaskedOutput_21: 5058219081477858557
+      leveltwo-newbackground04_page_4_MaskedOutput_22: 6216928172374484134
+      leveltwo-newbackground04_page_4_MaskedOutput_23: 8467288478253666923
+      leveltwo-newbackground04_page_4_MaskedOutput_24: 1724700313506704762
+      leveltwo-newbackground04_page_4_MaskedOutput_25: -1535580425657297581
+      leveltwo-newbackground04_page_4_MaskedOutput_26: 769508189585587639
+      leveltwo-newbackground04_page_4_MaskedOutput_27: 1077777331511510594
+      leveltwo-newbackground04_page_4_MaskedOutput_3: 8891103484508147744
+      leveltwo-newbackground04_page_4_MaskedOutput_4: 155934163653904398
+      leveltwo-newbackground04_page_4_MaskedOutput_5: 625757632954624625
+      leveltwo-newbackground04_page_4_MaskedOutput_6: 8709702142808002280
+      leveltwo-newbackground04_page_4_MaskedOutput_7: 2188396987881036152
+      leveltwo-newbackground04_page_4_MaskedOutput_8: 5250685372564942894
+      leveltwo-newbackground04_page_4_MaskedOutput_9: 8786642502920796212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

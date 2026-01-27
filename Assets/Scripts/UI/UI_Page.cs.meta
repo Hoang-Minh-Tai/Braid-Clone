@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a722705bd4c5f2642a8140a732ead364
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - parentPage: {instanceID: 0}
+  - pageTransitionClip: {fileID: 8300000, guid: 2dc4fb9a9d997e946be73b6542444407, type: 3}
+  - pageExitClip: {fileID: 8300000, guid: c6d08f84c991b5248aab0fe75cb06699, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

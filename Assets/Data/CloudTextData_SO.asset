@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e2243ae141902842aceef9bae9b4823, type: 3}
+  m_Name: CloudTextData_SO
+  m_EditorClassIdentifier: Assembly-CSharp::CloudTextData_SO
+  headerText: "2. Th\u1EDDi gian v\xE0 S\u1EF1 tha th\u1EE9"
+  bodyTexts:
+  - "Tim l\xEAn \u0111\u01B0\u1EDDng tr\xEAn cu\u1ED9c h\xE0nh tr\xECnh gi\u1EA3i
+    c\u1EE9u C\xF4ng Ch\xFAa. N\xE0ng \u0111\xE3 b\u1ECB m\u1ED9t con qu\xE1i v\u1EADt
+    kh\u1EE7ng khi\u1EBFp v\xE0 \u0111\u1ED9c \xE1c b\u1EAFt \u0111i.\r\n\r\nM\u1ECDi
+    chuy\u1EC7n x\u1EA3y ra v\xEC Tim \u0111\xE3 m\u1EAFc m\u1ED9t sai l\u1EA7m."
+  - "Kh\xF4ng ch\u1EC9 m\u1ED9t. Ch\xE0ng \u0111\xE3 m\u1EAFc qu\xE1 nhi\u1EC1u sai
+    l\u1EA7m, su\u1ED1t nh\u1EEFng n\u0103m th\xE1ng h\u1ECD c\xF2n \u1EDF b\xEAn
+    nhau. K\xFD \u1EE9c v\u1EC1 m\u1ED1i quan h\u1EC7 \u1EA5y ng\xE0y c\xE0ng nh\u1EA1t
+    nh\xF2a, l\u1EABn l\u1ED9n, duy ch\u1EC9 m\u1ED9t h\xECnh \u1EA3nh kh\xF4ng th\u1EC3
+    x\xF3a m\u1EDD: C\xF4ng Ch\xFAa l\u1EA1nh l\xF9ng quay \u0111i, b\xEDm t\xF3c
+    n\xE0ng v\xFAt qua anh \u0111\u1EA7y khinh mi\u1EC7t."
+  - "Anh hi\u1EC3u n\xE0ng \u0111\xE3 c\u1ED1 g\u1EAFng tha th\u1EE9. Nh\u01B0ng
+    ai c\xF3 th\u1EC3 l\xE0m ng\u01A1 tr\u01B0\u1EDBc m\u1ED9t l\u1EDDi n\xF3i d\u1ED1i
+    \u0111\u1EA7y t\u1ED9i l\u1ED7i, m\u1ED9t nh\xE1t dao ngay sau l\u01B0ng m\xECnh?
+    M\u1ED9t sai l\u1EA7m nh\u01B0 th\u1EBF khi\u1EBFn t\xECnh c\u1EA3m tan v\u1EE1,
+    kh\xF4ng th\u1EC3 h\xE0n g\u1EAFn l\u1EA1i \u0111\u01B0\u1EE3c, d\xF9 ta \u0111\xE3
+    r\xFAt ra \u0111\u01B0\u1EE3c b\xE0i h\u1ECDc v\xE0 s\u1EBD kh\xF4ng bao gi\u1EDD
+    t\xE1i ph\u1EA1m. \xC1nh m\u1EAFt C\xF4ng Ch\xFAa d\u1EA7n kh\xE9p l\u1EA1i.
+    H\xECnh b\xF3ng n\xE0ng ng\xE0y c\xE0ng xa v\u1EDDi."
+  - "Th\u1EBF gi\u1EDBi n\xE0y, v\u1ED1n v\u1EADn h\xE0nh theo quy lu\u1EADt nh\xE2n
+    qu\u1EA3, \u0111\xE3 d\u1EA1y con ng\u01B0\u1EDDi ta ph\u1EA3i d\xE8 s\u1EBBn
+    v\u1EDBi s\u1EF1 tha th\u1EE9. Tha th\u1EE9 qu\xE1 d\u1EC5 d\xE0ng, ta c\xF3
+    th\u1EC3 b\u1ECB t\u1ED5n th\u01B0\u01A1ng \u0111au \u0111\u1EDBn. Nh\u01B0ng
+    n\u1EBFu nh\u01B0 ta \u0111\xE3 h\u1ECDc \u0111\u01B0\u1EE3c t\u1EEB sai l\u1EA7m
+    v\xE0 tr\u1EDF n\xEAn t\u1ED1t h\u01A1n v\xEC n\xF3, ch\u1EB3ng l\u1EBD ta kh\xF4ng
+    x\u1EE9ng \u0111\xE1ng \u0111\u01B0\u1EE3c t\u01B0\u1EDFng th\u01B0\u1EDFng cho
+    \u0111i\u1EC1u ta \u0111\xE3 h\u1ECDc, thay v\xEC b\u1ECB tr\u1EEBng ph\u1EA1t
+    b\u1EDFi l\u1ED7i l\u1EA7m \u1EA5y?"
+  - "Gi\xE1 nh\u01B0 th\u1EBF gi\u1EDBi n\xE0y v\u1EADn h\xE0nh kh\xE1c \u0111i th\xEC
+    sao? Gi\u1EA3 s\u1EED nh\u01B0 ta c\xF3 th\u1EC3 n\xF3i v\u1EDBi n\xE0ng: \"Anh
+    th\u1EADt s\u1EF1 kh\xF4ng c\u1ED1 \xFD n\xF3i nh\u01B0 v\u1EADy,\" v\xE0 n\xE0ng
+    s\u1EBD \u0111\xE1p: \"Kh\xF4ng sao \u0111\xE2u, em hi\u1EC3u,\" v\xE0 n\xE0ng
+    s\u1EBD kh\xF4ng quay \u0111i, v\xE0 cu\u1ED9c s\u1ED1ng s\u1EBD th\u1EF1c s\u1EF1
+    ti\u1EBFp di\u1EC5n nh\u01B0 th\u1EC3 nh\u1EEFng l\u1EDDi n\xF3i \u1EA5y ch\u01B0a
+    t\u1EEBng \u0111\u01B0\u1EE3c th\u1ED1t ra? Ta s\u1EBD x\xF3a b\u1ECF nh\u1EEFng
+    t\u1ED5n th\u01B0\u01A1ng g\xE2y ra, m\xE0 v\u1EABn mang theo s\u1EF1 tr\u01B0\u1EDFng
+    th\xE0nh t\u1EEB tr\u1EA3i nghi\u1EC7m \u1EA5y."
+  - "Tim v\xE0 C\xF4ng Ch\xFAa th\u1EA3nh th\u01A1i trong khu v\u01B0\u1EDDn c\u1EE7a
+    l\xE2u \u0111\xE0i, c\xF9ng c\u01B0\u1EDDi \u0111\xF9a, c\xF9ng \u0111\u1EB7t
+    t\xEAn cho nh\u1EEFng ch\xFA chim \u0111\u1EA7y m\xE0u s\u1EAFc. Nh\u1EEFng l\u1ED7i
+    l\u1EA7m c\u1EE7a h\u1ECD \u0111\u01B0\u1EE3c gi\u1EA5u k\xEDn, \u1EA9n \u0111i
+    trong nh\u1EEFng n\u1EBFp g\u1EA5p c\u1EE7a th\u1EDDi gian, n\u01A1i ch\xFAng
+    kh\xF4ng c\xF2n l\xE0m t\u1ED5n th\u01B0\u01A1ng ai \u0111\u01B0\u1EE3c n\u1EEFa."

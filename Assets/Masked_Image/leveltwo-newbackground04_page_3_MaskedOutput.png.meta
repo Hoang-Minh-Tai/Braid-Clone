@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 31a941ff862bace499c079b2f570c131
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4578027111400572842
+    second: leveltwo-newbackground04_page_3_MaskedOutput_0
+  - first:
+      213: -5450588543959422073
+    second: leveltwo-newbackground04_page_3_MaskedOutput_1
+  - first:
+      213: 6398751290685827534
+    second: leveltwo-newbackground04_page_3_MaskedOutput_2
+  - first:
+      213: -8981096215553733970
+    second: leveltwo-newbackground04_page_3_MaskedOutput_3
+  - first:
+      213: 8929230434536794610
+    second: leveltwo-newbackground04_page_3_MaskedOutput_4
+  - first:
+      213: -1476476233296098947
+    second: leveltwo-newbackground04_page_3_MaskedOutput_5
+  - first:
+      213: 7509476321349475921
+    second: leveltwo-newbackground04_page_3_MaskedOutput_6
+  - first:
+      213: 2342871473176198941
+    second: leveltwo-newbackground04_page_3_MaskedOutput_7
+  - first:
+      213: 2978732343029947927
+    second: leveltwo-newbackground04_page_3_MaskedOutput_8
+  - first:
+      213: -2280502803094735904
+    second: leveltwo-newbackground04_page_3_MaskedOutput_9
+  - first:
+      213: -7273027861043876713
+    second: leveltwo-newbackground04_page_3_MaskedOutput_10
+  - first:
+      213: 1397023836454659251
+    second: leveltwo-newbackground04_page_3_MaskedOutput_11
+  - first:
+      213: 3190661870515745447
+    second: leveltwo-newbackground04_page_3_MaskedOutput_12
+  - first:
+      213: 438166809869591636
+    second: leveltwo-newbackground04_page_3_MaskedOutput_13
+  - first:
+      213: -2150116420176204398
+    second: leveltwo-newbackground04_page_3_MaskedOutput_14
+  - first:
+      213: -4564684337774912647
+    second: leveltwo-newbackground04_page_3_MaskedOutput_15
+  - first:
+      213: 3305413107872363559
+    second: leveltwo-newbackground04_page_3_MaskedOutput_16
+  - first:
+      213: -4563156641627255807
+    second: leveltwo-newbackground04_page_3_MaskedOutput_17
+  - first:
+      213: 5838466610580067026
+    second: leveltwo-newbackground04_page_3_MaskedOutput_18
+  - first:
+      213: -7586137870840619076
+    second: leveltwo-newbackground04_page_3_MaskedOutput_19
+  - first:
+      213: -7168892262411862955
+    second: leveltwo-newbackground04_page_3_MaskedOutput_20
+  - first:
+      213: -6112316724918701538
+    second: leveltwo-newbackground04_page_3_MaskedOutput_21
+  - first:
+      213: 5211388936427730305
+    second: leveltwo-newbackground04_page_3_MaskedOutput_22
+  - first:
+      213: 3507105873080681021
+    second: leveltwo-newbackground04_page_3_MaskedOutput_23
+  - first:
+      213: 5447784815320320666
+    second: leveltwo-newbackground04_page_3_MaskedOutput_24
+  - first:
+      213: 3980763208516417728
+    second: leveltwo-newbackground04_page_3_MaskedOutput_25
+  - first:
+      213: -811358045872772222
+    second: leveltwo-newbackground04_page_3_MaskedOutput_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_3_MaskedOutput_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 744
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78323076b688f30800000000000000
+      internalID: 4578027111400572842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_3_MaskedOutput_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 779
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c68912aa5e4894dbdc848a24bfa4f0
+      internalID: -5450588543959422073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_3_MaskedOutput_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 160
+        width: 642
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a6c853172ef404e856bdd7d4bcc1bb
+      internalID: 6398751290685827534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9b4e96cdd90371b42a853107178403c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1024.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      leveltwo-newbackground04_page_3_MaskedOutput_0: 4578027111400572842
+      leveltwo-newbackground04_page_3_MaskedOutput_1: -5450588543959422073
+      leveltwo-newbackground04_page_3_MaskedOutput_2: 6398751290685827534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

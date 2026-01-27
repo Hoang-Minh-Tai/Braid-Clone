@@ -1,0 +1,1019 @@
+fileFormatVersion: 2
+guid: 8f30c00a26e38d94cae1eede644c827f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3462576935676012222
+    second: MaskedOutput_0
+  - first:
+      213: -1692861393426945918
+    second: MaskedOutput_1
+  - first:
+      213: 6359186139968623532
+    second: MaskedOutput_2
+  - first:
+      213: 1737021671134309404
+    second: MaskedOutput_3
+  - first:
+      213: 8393249491715658409
+    second: MaskedOutput_4
+  - first:
+      213: -1840196942126874006
+    second: MaskedOutput_5
+  - first:
+      213: -4785927376228597463
+    second: MaskedOutput_6
+  - first:
+      213: 4733711229739437446
+    second: MaskedOutput_7
+  - first:
+      213: 5987540638286222871
+    second: MaskedOutput_8
+  - first:
+      213: 7679790018397936532
+    second: MaskedOutput_9
+  - first:
+      213: -2199291218770846281
+    second: MaskedOutput_10
+  - first:
+      213: 5937478711538286614
+    second: MaskedOutput_11
+  - first:
+      213: 660200963524542643
+    second: MaskedOutput_12
+  - first:
+      213: -1132694866468492336
+    second: MaskedOutput_13
+  - first:
+      213: 8478651107272251291
+    second: MaskedOutput_14
+  - first:
+      213: 8153031117421842244
+    second: MaskedOutput_15
+  - first:
+      213: -3125748450013307989
+    second: MaskedOutput_16
+  - first:
+      213: 7669305544841637445
+    second: MaskedOutput_17
+  - first:
+      213: -8723501858371463081
+    second: MaskedOutput_18
+  - first:
+      213: -2836996008854181176
+    second: MaskedOutput_19
+  - first:
+      213: -6260590468425527158
+    second: MaskedOutput_20
+  - first:
+      213: 9127807672887963635
+    second: MaskedOutput_21
+  - first:
+      213: 3305949108824149532
+    second: MaskedOutput_22
+  - first:
+      213: 885853290381057054
+    second: MaskedOutput_23
+  - first:
+      213: -7649483352437629892
+    second: MaskedOutput_24
+  - first:
+      213: 6044911961250690013
+    second: MaskedOutput_25
+  - first:
+      213: -3094893435481792702
+    second: MaskedOutput_26
+  - first:
+      213: -7798869810057055604
+    second: MaskedOutput_27
+  - first:
+      213: 2339440285401476453
+    second: MaskedOutput_28
+  - first:
+      213: -2791990381946491405
+    second: MaskedOutput_29
+  - first:
+      213: 1037070358054386394
+    second: MaskedOutput_30
+  - first:
+      213: -181416856764612503
+    second: MaskedOutput_31
+  - first:
+      213: 6795386830888029844
+    second: MaskedOutput_32
+  - first:
+      213: 4109528468362832637
+    second: MaskedOutput_33
+  - first:
+      213: 7936437003586230517
+    second: MaskedOutput_34
+  - first:
+      213: -5133283140508313181
+    second: MaskedOutput_35
+  - first:
+      213: -8595935131950170859
+    second: MaskedOutput_36
+  - first:
+      213: 4038867933440344530
+    second: MaskedOutput_37
+  - first:
+      213: -7308673096398930940
+    second: MaskedOutput_38
+  - first:
+      213: 1659204174752919883
+    second: MaskedOutput_39
+  - first:
+      213: -789406412878030569
+    second: MaskedOutput_40
+  - first:
+      213: 2717907084919361348
+    second: MaskedOutput_41
+  - first:
+      213: 8919686291404850727
+    second: MaskedOutput_42
+  - first:
+      213: 159379490831329658
+    second: MaskedOutput_43
+  - first:
+      213: 4729499871504304509
+    second: MaskedOutput_44
+  - first:
+      213: 8684739379559323238
+    second: MaskedOutput_45
+  - first:
+      213: 1742589139513371590
+    second: MaskedOutput_46
+  - first:
+      213: -1454027652080111607
+    second: MaskedOutput_47
+  - first:
+      213: -3646972007852176745
+    second: MaskedOutput_48
+  - first:
+      213: -4801504471063355960
+    second: MaskedOutput_49
+  - first:
+      213: -5860822751369227625
+    second: MaskedOutput_50
+  - first:
+      213: -1593129579734006185
+    second: MaskedOutput_51
+  - first:
+      213: -7370903705623765507
+    second: MaskedOutput_52
+  - first:
+      213: -913050967370515338
+    second: MaskedOutput_53
+  - first:
+      213: -8845260855222762182
+    second: MaskedOutput_54
+  - first:
+      213: 4001850936570367968
+    second: MaskedOutput_55
+  - first:
+      213: -1431288555005995932
+    second: MaskedOutput_56
+  - first:
+      213: -3303605331949298066
+    second: MaskedOutput_57
+  - first:
+      213: -2330815231610637403
+    second: MaskedOutput_58
+  - first:
+      213: -7575204249864796740
+    second: MaskedOutput_59
+  - first:
+      213: 1810750949589959556
+    second: MaskedOutput_60
+  - first:
+      213: -8354575833513681675
+    second: MaskedOutput_61
+  - first:
+      213: -8910769847510515957
+    second: MaskedOutput_62
+  - first:
+      213: -4634568603956101546
+    second: MaskedOutput_63
+  - first:
+      213: 7483331053250194385
+    second: MaskedOutput_64
+  - first:
+      213: 5507816234352887301
+    second: MaskedOutput_65
+  - first:
+      213: 1184892395439511542
+    second: MaskedOutput_66
+  - first:
+      213: -868203978301166717
+    second: MaskedOutput_67
+  - first:
+      213: -4244495380880117581
+    second: MaskedOutput_68
+  - first:
+      213: 1164266480518870518
+    second: MaskedOutput_69
+  - first:
+      213: 3671770364990903439
+    second: MaskedOutput_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaskedOutput_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 729
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6ed62a06b8d0030800000000000000
+      internalID: 3462576935676012222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_1
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1398
+        width: 252
+        height: 649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28860d6288fb188e0800000000000000
+      internalID: -1692861393426945918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_6
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1436
+        width: 383
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c3138868f49db0800000000000000
+      internalID: -4785927376228597463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1245
+        width: 724
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d85ed784581b140800000000000000
+      internalID: 4733711229739437446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_8
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1518
+        width: 622
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7161447bc74081350800000000000000
+      internalID: 5987540638286222871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_9
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1007
+        width: 306
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b133c1558149a60800000000000000
+      internalID: 7679790018397936532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_13
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1157
+        width: 109
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbac3d250cd740f0800000000000000
+      internalID: -1132694866468492336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_17
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1095
+        width: 410
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e283262c8de6a60800000000000000
+      internalID: 7669305544841637445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 505
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caab073927f0a8d0800000000000000
+      internalID: -2836996008854181176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 891
+        width: 547
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff6290a7bc7cae70800000000000000
+      internalID: 9127807672887963635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_33
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 512
+        width: 493
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa2f176e5af70930800000000000000
+      internalID: 4109528468362832637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_34
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 831
+        width: 346
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8d50dd763e32e60800000000000000
+      internalID: 7936437003586230517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_36
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 583
+        width: 162
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d3fcb6a8a15b880800000000000000
+      internalID: -8595935131950170859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_37
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 887
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d18d639cf0fc0830800000000000000
+      internalID: 4038867933440344530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_38
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 687
+        width: 366
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cffa5ba80629a90800000000000000
+      internalID: -7308673096398930940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_39
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 567
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b413ef5f76da60710800000000000000
+      internalID: 1659204174752919883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_40
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 493
+        width: 318
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7195df8cc077b05f0800000000000000
+      internalID: -789406412878030569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 132
+        width: 431
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79eb7f6dca363200800000000000000
+      internalID: 159379490831329658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 204
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79054e331f82a140800000000000000
+      internalID: 4729499871504304509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_45
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 183
+        width: 449
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666da75b374668870800000000000000
+      internalID: 8684739379559323238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_46
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 55
+        width: 322
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbe52af69bee2810800000000000000
+      internalID: 1742589139513371590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_47
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 123
+        width: 244
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9007b20ed8142dbe0800000000000000
+      internalID: -1454027652080111607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_49
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 175
+        width: 240
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd91de7f11ad5db0800000000000000
+      internalID: -4801504471063355960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_63
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 31
+        width: 94
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eb402e864beafb0800000000000000
+      internalID: -4634568603956101546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_65
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 39
+        width: 86
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506cbb8fea1bf6c40800000000000000
+      internalID: 5507816234352887301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskedOutput_66
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 84
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7db371b55917010800000000000000
+      internalID: 1184892395439511542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_main_1_0
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 369
+        width: 67
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cdba2c378518a4fb7236a60ad4dc63
+      internalID: -164482301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intro_main_1_1
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1058
+        width: 113
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d389ffd9c95256d49ad2fd276e5d937e
+      internalID: 1114402222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 727ab25bbbc460b49a599a0a64287651
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MaskedOutput_0: 3462576935676012222
+      MaskedOutput_1: -1692861393426945918
+      MaskedOutput_10: -2199291218770846281
+      MaskedOutput_11: 5937478711538286614
+      MaskedOutput_12: 660200963524542643
+      MaskedOutput_13: -1132694866468492336
+      MaskedOutput_14: 8478651107272251291
+      MaskedOutput_15: 8153031117421842244
+      MaskedOutput_16: -3125748450013307989
+      MaskedOutput_17: 7669305544841637445
+      MaskedOutput_18: -8723501858371463081
+      MaskedOutput_19: -2836996008854181176
+      MaskedOutput_2: 6359186139968623532
+      MaskedOutput_20: -6260590468425527158
+      MaskedOutput_21: 9127807672887963635
+      MaskedOutput_22: 3305949108824149532
+      MaskedOutput_23: 885853290381057054
+      MaskedOutput_24: -7649483352437629892
+      MaskedOutput_25: 6044911961250690013
+      MaskedOutput_26: -3094893435481792702
+      MaskedOutput_27: -7798869810057055604
+      MaskedOutput_28: 2339440285401476453
+      MaskedOutput_29: -2791990381946491405
+      MaskedOutput_3: 1737021671134309404
+      MaskedOutput_30: 1037070358054386394
+      MaskedOutput_31: -181416856764612503
+      MaskedOutput_32: 6795386830888029844
+      MaskedOutput_33: 4109528468362832637
+      MaskedOutput_34: 7936437003586230517
+      MaskedOutput_35: -5133283140508313181
+      MaskedOutput_36: -8595935131950170859
+      MaskedOutput_37: 4038867933440344530
+      MaskedOutput_38: -7308673096398930940
+      MaskedOutput_39: 1659204174752919883
+      MaskedOutput_4: 8393249491715658409
+      MaskedOutput_40: -789406412878030569
+      MaskedOutput_41: 2717907084919361348
+      MaskedOutput_42: 8919686291404850727
+      MaskedOutput_43: 159379490831329658
+      MaskedOutput_44: 4729499871504304509
+      MaskedOutput_45: 8684739379559323238
+      MaskedOutput_46: 1742589139513371590
+      MaskedOutput_47: -1454027652080111607
+      MaskedOutput_48: -3646972007852176745
+      MaskedOutput_49: -4801504471063355960
+      MaskedOutput_5: -1840196942126874006
+      MaskedOutput_50: -5860822751369227625
+      MaskedOutput_51: -1593129579734006185
+      MaskedOutput_52: -7370903705623765507
+      MaskedOutput_53: -913050967370515338
+      MaskedOutput_54: -8845260855222762182
+      MaskedOutput_55: 4001850936570367968
+      MaskedOutput_56: -1431288555005995932
+      MaskedOutput_57: -3303605331949298066
+      MaskedOutput_58: -2330815231610637403
+      MaskedOutput_59: -7575204249864796740
+      MaskedOutput_6: -4785927376228597463
+      MaskedOutput_60: 1810750949589959556
+      MaskedOutput_61: -8354575833513681675
+      MaskedOutput_62: -8910769847510515957
+      MaskedOutput_63: -4634568603956101546
+      MaskedOutput_64: 7483331053250194385
+      MaskedOutput_65: 5507816234352887301
+      MaskedOutput_66: 1184892395439511542
+      MaskedOutput_67: -868203978301166717
+      MaskedOutput_68: -4244495380880117581
+      MaskedOutput_69: 1164266480518870518
+      MaskedOutput_7: 4733711229739437446
+      MaskedOutput_70: 3671770364990903439
+      MaskedOutput_8: 5987540638286222871
+      MaskedOutput_9: 7679790018397936532
+      intro_main_1_0: -164482301
+      intro_main_1_1: 1114402222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

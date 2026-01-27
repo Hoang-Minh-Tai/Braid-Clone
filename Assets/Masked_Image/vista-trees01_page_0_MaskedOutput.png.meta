@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 4d5d51a5a109e1e48a2a001f58894037
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7280482087306759658
+    second: vista-trees01_page_0_MaskedOutput_0
+  - first:
+      213: 8811615312484521058
+    second: vista-trees01_page_0_MaskedOutput_1
+  - first:
+      213: -5011502946033045326
+    second: vista-trees01_page_0_MaskedOutput_2
+  - first:
+      213: -4759639034447103293
+    second: vista-trees01_page_0_MaskedOutput_3
+  - first:
+      213: -5751182428148986450
+    second: vista-trees01_page_0_MaskedOutput_4
+  - first:
+      213: -7939513400667129293
+    second: vista-trees01_page_0_MaskedOutput_5
+  - first:
+      213: -6872194451004408129
+    second: vista-trees01_page_0_MaskedOutput_6
+  - first:
+      213: 760030609171937053
+    second: vista-trees01_page_0_MaskedOutput_7
+  - first:
+      213: -3977555239951761213
+    second: vista-trees01_page_0_MaskedOutput_8
+  - first:
+      213: -187474354535814891
+    second: vista-trees01_page_0_MaskedOutput_9
+  - first:
+      213: 1312180770016546289
+    second: vista-trees01_page_0_MaskedOutput_10
+  - first:
+      213: 957093449088071105
+    second: vista-trees01_page_0_MaskedOutput_11
+  - first:
+      213: -2143835617935538927
+    second: vista-trees01_page_0_MaskedOutput_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 550
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed838f72e7790560800000000000000
+      internalID: 7280482087306759658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 407
+        width: 284
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2645806d075294a70800000000000000
+      internalID: 8811615312484521058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_2
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 663
+        width: 229
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b070e66f90937ab0800000000000000
+      internalID: -5011502946033045326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 439
+        width: 178
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca72bc048d52fdb0800000000000000
+      internalID: -4759639034447103293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_4
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 623
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead06bb7d02bf20b0800000000000000
+      internalID: -5751182428148986450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 607
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a38cf90ae21d190800000000000000
+      internalID: -7939513400667129293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 313
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeb878ae8f01a0a0800000000000000
+      internalID: -6872194451004408129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17fd1eefcb2c8a00800000000000000
+      internalID: 760030609171937053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 337
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c08e205592ecc8c0800000000000000
+      internalID: -3977555239951761213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 249
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519a56d5115f56df0800000000000000
+      internalID: -187474354535814891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 279
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd4fe5457dc53210800000000000000
+      internalID: 1312180770016546289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 279
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c57fb9cb67484d00800000000000000
+      internalID: 957093449088071105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vista-trees01_page_0_MaskedOutput_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1154f103dd09f32e0800000000000000
+      internalID: -2143835617935538927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vista-trees01_page_0_MaskedOutput_0: 7280482087306759658
+      vista-trees01_page_0_MaskedOutput_1: 8811615312484521058
+      vista-trees01_page_0_MaskedOutput_10: 1312180770016546289
+      vista-trees01_page_0_MaskedOutput_11: 957093449088071105
+      vista-trees01_page_0_MaskedOutput_12: -2143835617935538927
+      vista-trees01_page_0_MaskedOutput_2: -5011502946033045326
+      vista-trees01_page_0_MaskedOutput_3: -4759639034447103293
+      vista-trees01_page_0_MaskedOutput_4: -5751182428148986450
+      vista-trees01_page_0_MaskedOutput_5: -7939513400667129293
+      vista-trees01_page_0_MaskedOutput_6: -6872194451004408129
+      vista-trees01_page_0_MaskedOutput_7: 760030609171937053
+      vista-trees01_page_0_MaskedOutput_8: -3977555239951761213
+      vista-trees01_page_0_MaskedOutput_9: -187474354535814891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

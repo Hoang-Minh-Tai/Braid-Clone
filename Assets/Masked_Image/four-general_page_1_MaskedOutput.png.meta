@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 0961c8b30847f02419abb98e2948ef8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3654017782567559234
+    second: four-general_page_1_MaskedOutput_0
+  - first:
+      213: 7372701167038445753
+    second: four-general_page_1_MaskedOutput_1
+  - first:
+      213: -3403649216514827705
+    second: four-general_page_1_MaskedOutput_2
+  - first:
+      213: 4964314574197955093
+    second: four-general_page_1_MaskedOutput_3
+  - first:
+      213: -6810757795333470978
+    second: four-general_page_1_MaskedOutput_4
+  - first:
+      213: -9094542748088256744
+    second: four-general_page_1_MaskedOutput_5
+  - first:
+      213: 1213324518283582627
+    second: four-general_page_1_MaskedOutput_6
+  - first:
+      213: -3322084091733281527
+    second: four-general_page_1_MaskedOutput_7
+  - first:
+      213: -6853460407875678814
+    second: four-general_page_1_MaskedOutput_8
+  - first:
+      213: -7831184753534534298
+    second: four-general_page_1_MaskedOutput_9
+  - first:
+      213: 4647285713633141051
+    second: four-general_page_1_MaskedOutput_10
+  - first:
+      213: 8788343571174487865
+    second: four-general_page_1_MaskedOutput_11
+  - first:
+      213: 7429904671137692335
+    second: four-general_page_1_MaskedOutput_12
+  - first:
+      213: -4919537626915836363
+    second: four-general_page_1_MaskedOutput_13
+  - first:
+      213: -3912607690978612647
+    second: four-general_page_1_MaskedOutput_14
+  - first:
+      213: -6366826658618787266
+    second: four-general_page_1_MaskedOutput_15
+  - first:
+      213: -8898315301053936933
+    second: four-general_page_1_MaskedOutput_16
+  - first:
+      213: -4728053399692296133
+    second: four-general_page_1_MaskedOutput_17
+  - first:
+      213: 6559954189636537641
+    second: four-general_page_1_MaskedOutput_18
+  - first:
+      213: -4887342819849411336
+    second: four-general_page_1_MaskedOutput_19
+  - first:
+      213: 5271391539855058504
+    second: four-general_page_1_MaskedOutput_20
+  - first:
+      213: -7484320061784798341
+    second: four-general_page_1_MaskedOutput_21
+  - first:
+      213: 2641430498533618158
+    second: four-general_page_1_MaskedOutput_22
+  - first:
+      213: 4436571157862294097
+    second: four-general_page_1_MaskedOutput_23
+  - first:
+      213: -7223841948186083885
+    second: four-general_page_1_MaskedOutput_24
+  - first:
+      213: -6965297919979714060
+    second: four-general_page_1_MaskedOutput_25
+  - first:
+      213: -1998739831181246658
+    second: four-general_page_1_MaskedOutput_26
+  - first:
+      213: -2563972688767771774
+    second: four-general_page_1_MaskedOutput_27
+  - first:
+      213: 7987626964552352374
+    second: four-general_page_1_MaskedOutput_28
+  - first:
+      213: -2242816511954182440
+    second: four-general_page_1_MaskedOutput_29
+  - first:
+      213: -6736076871973153886
+    second: four-general_page_1_MaskedOutput_30
+  - first:
+      213: -4515915891379308394
+    second: four-general_page_1_MaskedOutput_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 894
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24066ec30dda5b230800000000000000
+      internalID: 3654017782567559234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_1
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 815
+        width: 885
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b83f6036a8115660800000000000000
+      internalID: 7372701167038445753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_2
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1871
+        width: 398
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ad895221fc3c0d0800000000000000
+      internalID: -3403649216514827705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_3
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1674
+        width: 276
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a1d5c9dc9c4e440800000000000000
+      internalID: 4964314574197955093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1951
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef40dedbed35b71a0800000000000000
+      internalID: -6810757795333470978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_5
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1903
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81738993e81b9c180800000000000000
+      internalID: -9094542748088256744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_6
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1895
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac909d883896d010800000000000000
+      internalID: 1213324518283582627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_7
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1583
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905f246ae1695e1d0800000000000000
+      internalID: -3322084091733281527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_8
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1363
+        width: 621
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adcd5af11e93e0a0800000000000000
+      internalID: -6853460407875678814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1139
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d7e1345fa025390800000000000000
+      internalID: -7831184753534534298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_10
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1561
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31e9d2fbb97e7040800000000000000
+      internalID: 4647285713633141051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_11
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1551
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93771f35ae776f970800000000000000
+      internalID: 8788343571174487865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_12
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1383
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa7d2edee25c1760800000000000000
+      internalID: 7429904671137692335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_13
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1360
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e6388d79a4abbb0800000000000000
+      internalID: -4919537626915836363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 1092
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a22c1f800a3b9c0800000000000000
+      internalID: -3912607690978612647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1007
+        width: 362
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a3a8a03ec74a7a0800000000000000
+      internalID: -6366826658618787266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_16
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 615
+        width: 286
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac1450165d28480800000000000000
+      internalID: -8898315301053936933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_17
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1007
+        width: 271
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b304348bb74926eb0800000000000000
+      internalID: -4728053399692296133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_18
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 951
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d0f105493a90b50800000000000000
+      internalID: 6559954189636537641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_19
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 711
+        width: 333
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4e15f799bac2cb0800000000000000
+      internalID: -4887342819849411336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_20
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 759
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8466f0d2daeb72940800000000000000
+      internalID: 5271391539855058504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_21
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 743
+        width: 365
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bccf3be8a522890800000000000000
+      internalID: -7484320061784798341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_22
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 247
+        width: 420
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1baf32b0f38a420800000000000000
+      internalID: 2641430498533618158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_23
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 695
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152202d46fdd19d30800000000000000
+      internalID: 4436571157862294097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_24
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 709
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd7dcc8502cfbb90800000000000000
+      internalID: -7223841948186083885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_25
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 687
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f987dc027a465f90800000000000000
+      internalID: -6965297919979714060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_26
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 666
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f740c96bc0344e0800000000000000
+      internalID: -1998739831181246658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_27
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 567
+        width: 223
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b91309c60fa6cd0800000000000000
+      internalID: -2563972688767771774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_28
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 407
+        width: 275
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672897c6760c9de60800000000000000
+      internalID: 7987626964552352374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_29
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 655
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de179ce34aefd0e0800000000000000
+      internalID: -2242816511954182440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_30
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 618
+        width: 6
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d05236c5a482a0800000000000000
+      internalID: -6736076871973153886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-general_page_1_MaskedOutput_31
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 383
+        width: 346
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6987bc25c6e3451c0800000000000000
+      internalID: -4515915891379308394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      four-general_page_1_MaskedOutput_0: 3654017782567559234
+      four-general_page_1_MaskedOutput_1: 7372701167038445753
+      four-general_page_1_MaskedOutput_10: 4647285713633141051
+      four-general_page_1_MaskedOutput_11: 8788343571174487865
+      four-general_page_1_MaskedOutput_12: 7429904671137692335
+      four-general_page_1_MaskedOutput_13: -4919537626915836363
+      four-general_page_1_MaskedOutput_14: -3912607690978612647
+      four-general_page_1_MaskedOutput_15: -6366826658618787266
+      four-general_page_1_MaskedOutput_16: -8898315301053936933
+      four-general_page_1_MaskedOutput_17: -4728053399692296133
+      four-general_page_1_MaskedOutput_18: 6559954189636537641
+      four-general_page_1_MaskedOutput_19: -4887342819849411336
+      four-general_page_1_MaskedOutput_2: -3403649216514827705
+      four-general_page_1_MaskedOutput_20: 5271391539855058504
+      four-general_page_1_MaskedOutput_21: -7484320061784798341
+      four-general_page_1_MaskedOutput_22: 2641430498533618158
+      four-general_page_1_MaskedOutput_23: 4436571157862294097
+      four-general_page_1_MaskedOutput_24: -7223841948186083885
+      four-general_page_1_MaskedOutput_25: -6965297919979714060
+      four-general_page_1_MaskedOutput_26: -1998739831181246658
+      four-general_page_1_MaskedOutput_27: -2563972688767771774
+      four-general_page_1_MaskedOutput_28: 7987626964552352374
+      four-general_page_1_MaskedOutput_29: -2242816511954182440
+      four-general_page_1_MaskedOutput_3: 4964314574197955093
+      four-general_page_1_MaskedOutput_30: -6736076871973153886
+      four-general_page_1_MaskedOutput_31: -4515915891379308394
+      four-general_page_1_MaskedOutput_4: -6810757795333470978
+      four-general_page_1_MaskedOutput_5: -9094542748088256744
+      four-general_page_1_MaskedOutput_6: 1213324518283582627
+      four-general_page_1_MaskedOutput_7: -3322084091733281527
+      four-general_page_1_MaskedOutput_8: -6853460407875678814
+      four-general_page_1_MaskedOutput_9: -7831184753534534298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

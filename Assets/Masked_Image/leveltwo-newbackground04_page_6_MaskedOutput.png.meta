@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 9aa08cfab927eae49a9aacc66cb6ece7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6009408804076449227
+    second: leveltwo-newbackground04_page_6_MaskedOutput_0
+  - first:
+      213: 5468815779909195057
+    second: leveltwo-newbackground04_page_6_MaskedOutput_1
+  - first:
+      213: -8008954126034626301
+    second: leveltwo-newbackground04_page_6_MaskedOutput_2
+  - first:
+      213: 6450674268251289613
+    second: leveltwo-newbackground04_page_6_MaskedOutput_3
+  - first:
+      213: -8200701772262954407
+    second: leveltwo-newbackground04_page_6_MaskedOutput_4
+  - first:
+      213: 2993715957738032707
+    second: leveltwo-newbackground04_page_6_MaskedOutput_5
+  - first:
+      213: 2458249993502093595
+    second: leveltwo-newbackground04_page_6_MaskedOutput_6
+  - first:
+      213: 8723234892468578805
+    second: leveltwo-newbackground04_page_6_MaskedOutput_7
+  - first:
+      213: 40799982339299740
+    second: leveltwo-newbackground04_page_6_MaskedOutput_8
+  - first:
+      213: 4552666326789408224
+    second: leveltwo-newbackground04_page_6_MaskedOutput_9
+  - first:
+      213: -5971249049466789995
+    second: leveltwo-newbackground04_page_6_MaskedOutput_10
+  - first:
+      213: 368209348499105732
+    second: leveltwo-newbackground04_page_6_MaskedOutput_11
+  - first:
+      213: -4855873279349296777
+    second: leveltwo-newbackground04_page_6_MaskedOutput_12
+  - first:
+      213: 620999375725009686
+    second: leveltwo-newbackground04_page_6_MaskedOutput_13
+  - first:
+      213: 1206482479033255472
+    second: leveltwo-newbackground04_page_6_MaskedOutput_14
+  - first:
+      213: -4064831807572615298
+    second: leveltwo-newbackground04_page_6_MaskedOutput_15
+  - first:
+      213: -8567303177143625535
+    second: leveltwo-newbackground04_page_6_MaskedOutput_16
+  - first:
+      213: 2910745448406056449
+    second: leveltwo-newbackground04_page_6_MaskedOutput_17
+  - first:
+      213: 5722460505237475755
+    second: leveltwo-newbackground04_page_6_MaskedOutput_18
+  - first:
+      213: 2398016115691856072
+    second: leveltwo-newbackground04_page_6_MaskedOutput_19
+  - first:
+      213: 4465548589675049676
+    second: leveltwo-newbackground04_page_6_MaskedOutput_20
+  - first:
+      213: -1647449100068555552
+    second: leveltwo-newbackground04_page_6_MaskedOutput_21
+  - first:
+      213: -6762643176718718372
+    second: leveltwo-newbackground04_page_6_MaskedOutput_22
+  - first:
+      213: -5382466334202223273
+    second: leveltwo-newbackground04_page_6_MaskedOutput_23
+  - first:
+      213: -1196783688768396047
+    second: leveltwo-newbackground04_page_6_MaskedOutput_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 737
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5321bea288a4a9ca0800000000000000
+      internalID: -6009408804076449227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 847
+        width: 370
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135d98f0af225eb40800000000000000
+      internalID: 5468815779909195057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 575
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3099e47d7aa7ad090800000000000000
+      internalID: -8008954126034626301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 583
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08fed0e116658950800000000000000
+      internalID: 6450674268251289613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 423
+        width: 210
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aa953ff21413e80800000000000000
+      internalID: -8200701772262954407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_5
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 399
+        width: 162
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ec46b5dc0db8920800000000000000
+      internalID: 2993715957738032707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 571
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b117ccf38557d1220800000000000000
+      internalID: 2458249993502093595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 569
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9e1e1cae72f0970800000000000000
+      internalID: 8723234892468578805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c991d262e53f09000800000000000000
+      internalID: 40799982339299740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 207
+        width: 532
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e54a2537e15e2f30800000000000000
+      internalID: 4552666326789408224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f942560acd12da0800000000000000
+      internalID: -5971249049466789995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 223
+        width: 181
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7644c93742c1500800000000000000
+      internalID: 368209348499105732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_12
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 388
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771f21edaf87c9cb0800000000000000
+      internalID: -4855873279349296777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 207
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b14db54ab3e9800800000000000000
+      internalID: 620999375725009686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 199
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03682862c694eb010800000000000000
+      internalID: 1206482479033255472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 593
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fdce5e101d697c0800000000000000
+      internalID: -4064831807572615298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_16
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 143
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c85743e623da1980800000000000000
+      internalID: -8567303177143625535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 119
+        width: 368
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ef3d3409b056820800000000000000
+      internalID: 2910745448406056449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 122
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1d1e7b2834a6f40800000000000000
+      internalID: 5722460505237475755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 119
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0a975b3f6774120800000000000000
+      internalID: 2398016115691856072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 119
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2f3d668c0d8fd30800000000000000
+      internalID: 4465548589675049676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_21
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e470e4a5c51329e0800000000000000
+      internalID: -1647449100068555552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 31
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a26fc5cd34622a0800000000000000
+      internalID: -6762643176718718372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_23
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755a066f263ad45b0800000000000000
+      internalID: -5382466334202223273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leveltwo-newbackground04_page_6_MaskedOutput_24
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 31
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f46afd639b246fe0800000000000000
+      internalID: -1196783688768396047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leveltwo-newbackground04_page_6_MaskedOutput_0: -6009408804076449227
+      leveltwo-newbackground04_page_6_MaskedOutput_1: 5468815779909195057
+      leveltwo-newbackground04_page_6_MaskedOutput_10: -5971249049466789995
+      leveltwo-newbackground04_page_6_MaskedOutput_11: 368209348499105732
+      leveltwo-newbackground04_page_6_MaskedOutput_12: -4855873279349296777
+      leveltwo-newbackground04_page_6_MaskedOutput_13: 620999375725009686
+      leveltwo-newbackground04_page_6_MaskedOutput_14: 1206482479033255472
+      leveltwo-newbackground04_page_6_MaskedOutput_15: -4064831807572615298
+      leveltwo-newbackground04_page_6_MaskedOutput_16: -8567303177143625535
+      leveltwo-newbackground04_page_6_MaskedOutput_17: 2910745448406056449
+      leveltwo-newbackground04_page_6_MaskedOutput_18: 5722460505237475755
+      leveltwo-newbackground04_page_6_MaskedOutput_19: 2398016115691856072
+      leveltwo-newbackground04_page_6_MaskedOutput_2: -8008954126034626301
+      leveltwo-newbackground04_page_6_MaskedOutput_20: 4465548589675049676
+      leveltwo-newbackground04_page_6_MaskedOutput_21: -1647449100068555552
+      leveltwo-newbackground04_page_6_MaskedOutput_22: -6762643176718718372
+      leveltwo-newbackground04_page_6_MaskedOutput_23: -5382466334202223273
+      leveltwo-newbackground04_page_6_MaskedOutput_24: -1196783688768396047
+      leveltwo-newbackground04_page_6_MaskedOutput_3: 6450674268251289613
+      leveltwo-newbackground04_page_6_MaskedOutput_4: -8200701772262954407
+      leveltwo-newbackground04_page_6_MaskedOutput_5: 2993715957738032707
+      leveltwo-newbackground04_page_6_MaskedOutput_6: 2458249993502093595
+      leveltwo-newbackground04_page_6_MaskedOutput_7: 8723234892468578805
+      leveltwo-newbackground04_page_6_MaskedOutput_8: 40799982339299740
+      leveltwo-newbackground04_page_6_MaskedOutput_9: 4552666326789408224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
